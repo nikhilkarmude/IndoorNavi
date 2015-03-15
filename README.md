@@ -1,8 +1,8 @@
 IndoorNavi
 ===========
 
-###Indoor navigation using smart phone sensors, and map of the building.
-###### Key aspect of this project is: This application does not utilize any GPS or intenet usage using mobile data or WIFI.
+###Andriod Application for Indoor navigation using smart phone sensors and map of the building.
+###### Key aspect of this project is: This application does not utilize any GPS or cellular data or WIFI.
 
 The application consists of two major parts:
 
